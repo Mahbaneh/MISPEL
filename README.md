@@ -1,4 +1,4 @@
-# This is the code for the paper ""
+# MISPEL
 # Paper: 
 # Setup:
 # Script:
