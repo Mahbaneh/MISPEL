@@ -7,12 +7,15 @@ MISPEL | Torbati, M.E., Tudorascu, D.L., Minhas, D.S., Maillard, P., DeCarli, C.
 # Table of content:
 [Software requirements](#Software-requirements)\
 [Introduction](#Introduction)\
+[Structure of input data for MISPEL](#Structure-of-input-data-for-MISPEL)\
 [Image Preprocessing](#Image-Preprocessing)\
 [MISPEL Harmonization](#MISPEL-Harmonization)
 
 # Software requirements:
 
 # Introduction:
+
+# Structure of input data for MISPEL:
 
 # Image Preprocessing:
 
