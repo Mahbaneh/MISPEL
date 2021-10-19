@@ -3,7 +3,7 @@
 # Reference to paper: 
 Method | Citation | Paper Link |
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-MISPEL | Torbati, Mahbaneh Eshaghzadeh, et al. "Multi-Scanner Harmonization of Paired Neuroimaging Data via Structure Preserving Embedding Learning." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+MISPEL | Torbati, Mahbaneh Eshaghzadeh, et al. "Multi-Scanner Harmonization of Paired Neuroimaging Data via Structure Preserving Embedding Learning." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. | 283 |
 
 # Setup:
 # Script:
