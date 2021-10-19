@@ -7,16 +7,16 @@ MISPEL | Torbati, M.E., Tudorascu, D.L., Minhas, D.S., Maillard, P., DeCarli, C.
 # Table of content:
 [Software requirement](#Software-requirement)\
 [Introduction](#Introduction)\
-Preprocessing\
-MISPEL Harmonization
+[Image Preprocessing](#Image-Preprocessing)\
+[MISPEL Harmonization](#MISPEL-Harmonization)
 
-# Software requirement
+# Software requirement:
 
 # Introduction:
 Talk a bit about harmonization.
 Talk about the model.
 Requirements:
 
+# Image Preprocessing:
 
-
-# How to run:
+# MISPEL Harmonization:
