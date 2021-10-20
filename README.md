@@ -16,7 +16,7 @@ MISPEL | Torbati, M.E., Tudorascu, D.L., Minhas, D.S., Maillard, P., DeCarli, C.
 # Introduction:
 
 # Structure of input data for MISPEL:
-The input images should be a paired dataset which includes images of ALL subjects across ALL scanners. We expect all images to be grouped in n (# of scanners) folders. These folders should be named after the scanner names. Also, images of each subject should have identical names across these folders. Please refer to [Data folder](test_dir) as an example of the structure of the input data for MISPEL. 
+The input images should be a paired dataset which includes images of ALL subjects across ALL scanners. We expect all images to be grouped in n (# of scanners) folders. These folders should be named after the scanner names. Also, images of each subject should have identical names across these folders. Please refer to [Data folder](https://github.com/Mahbaneh/MISPEL/tree/main/Data) as an example of the structure of the input data for MISPEL. 
 
 # Image Preprocessing:
 
