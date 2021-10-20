@@ -16,7 +16,7 @@ MISPEL | Torbati, M.E., Tudorascu, D.L., Minhas, D.S., Maillard, P., DeCarli, C.
 # Introduction:
 
 # Structure of input data for MISPEL:
-The 
+The input data should be a paired dataset which includes images of subjects across ALL scanners. We assumed that 
 
 # Image Preprocessing:
 
