@@ -20,4 +20,5 @@ MISPEL accepts a paired dataset as input data which should include images of "AL
 
 # Image Preprocessing:
 
+
 # MISPEL Harmonization:
