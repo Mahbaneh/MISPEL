@@ -20,10 +20,10 @@ MISPEL accepts a paired dataset as input data which should include images of "AL
 
 # Image Preprocessing:
 For the preprocessing step please read 'preprocessing' paragraph in section 4.1. Multi-scanner Dataset in the paper. The steps are as follows:
-\Step 1. Registration to a template.
-\Step 2. N4 bias correction.
-\Step 3. Skull stripping.
-\Step 4. Scaling.
+Step 1. Registration to a template.\
+Step 2. N4 bias correction.\
+Step 3. Skull stripping.\
+Step 4. Scaling.\
 For the firs three steps we used the instruction in [Data folder](https://github.com/Jfortin1/RAVEL). You can run Step 4 by our code by setting paparemet to True. 
 
 
