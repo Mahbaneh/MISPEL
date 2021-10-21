@@ -23,7 +23,7 @@ For the preprocessing step please read the 'preprocessing' paragraph in section 
   Step 1. Registration to a template.\
   Step 2. N4 bias correction.\
   Step 3. Skull stripping.\
-  Step 4. Scaling.\
+  Step 4. Image scaling.\
 For the first three steps we used the instruction prepared in the [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). You can run Step 4 by our code setting paparemer ... to True. 
 
 
