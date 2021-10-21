@@ -18,7 +18,7 @@ MISPEL | Torbati, M.E., Tudorascu, D.L., Minhas, D.S., Maillard, P., DeCarli, C.
 # Structure of input data for MISPEL:
 MISPEL accepts a paired dataset as input data which should include images of "ALL" subjects across "ALL" scanners. We expect this data to be grouped in n (# of scanners) folders which named after the scanner names. Images of each subject should have identical names across these folders. Please refer to [Data folder](https://github.com/Mahbaneh/MISPEL/tree/main/Data) as an example of such data.
 
-# Image Preprocessing:
+# Image preprocessing:
 For the preprocessing step please read the 'preprocessing' paragraph in section 4.1. Multi-scanner Dataset of our paper. The steps are as follows:\
   Step 1. Registration to a template.\
   Step 2. N4 bias correction.\
@@ -27,4 +27,4 @@ For the preprocessing step please read the 'preprocessing' paragraph in section 
 For the first three steps we used the instruction prepared in the [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). You can run Step 4 by our code setting paparemer ... to True. 
 
 
-# MISPEL Harmonization:
+# MISPEL harmonization:
