@@ -24,7 +24,7 @@ For the preprocessing step please read the 'preprocessing' paragraph in section 
   Step 2. N4 bias correction.\
   Step 3. Skull stripping.\
   Step 4. Scaling.\
-For the first three steps we used the instruction in [Data folder](https://github.com/Jfortin1/RAVEL). You can run Step 4 by our code by setting paparemet to True. 
+For the first three steps we used the instruction prepared in the [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). You can run Step 4 by our code setting paparemer ... to True. 
 
 
 # MISPEL Harmonization:
