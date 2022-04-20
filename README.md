@@ -1,5 +1,5 @@
 # Multi-scanner Image harmonization via Structure Preserving Embedding Learning (MISPEL)
-*** We are currently working on this repository. The code and documentation will be upoladed by 01/01/22 the latest.
+*** We are currently working on this repository. The code and documentation will be upoladed by 5/31/22 the latest.
 # Reference to paper: 
 Method | Citation | Links 
 --- | --- | --- 
