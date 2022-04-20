@@ -12,6 +12,7 @@ MISPEL | Torbati, M.E., Tudorascu, D.L., Minhas, D.S., Maillard, P., DeCarli, C.
 [MISPEL Harmonization](#MISPEL-Harmonization)
 
 # Software requirements:
+Python, Keras, ...
 
 # Introduction:
 
