@@ -8,7 +8,9 @@ MISPEL | Torbati, M.E., Tudorascu, D.L., Minhas, D.S., Maillard, P., DeCarli, C.
 [Software requirements](#Software-requirements)\
 [MISPEL Harmonization](#MISPEL-Harmonization)\
 [Structure of input data for MISPEL](#Structure-of-input-data-for-MISPEL)\
-[Image Preprocessing](#Image-Preprocessing)
+[Image Preprocessing](#Image-Preprocessing)\
+[Running](#Running)
+
 
 
 # Software requirements:
@@ -34,4 +36,4 @@ For the preprocessing step please read the 'preprocessing' paragraph in section 
 For the first three steps we used the instruction prepared in the [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). You can run Step 4 by our code setting paparemer ... to True. 
 
 
-# MISPEL harmonization:
+# Running:
