@@ -30,7 +30,7 @@ MISPEL accepts a paired dataset as input data which should include images of "AL
 
 # Image preprocessing:
 For the preprocessing step please read the 'preprocessing' paragraph in section 4.1 of the [Paper](https://openaccess.thecvf.com/content/ICCV2021W/CVAMD/html/Torbati_Multi-Scanner_Harmonization_of_Paired_Neuroimaging_Data_via_Structure_Preserving_Embedding_ICCVW_2021_paper.html). The steps are: (1) Registration to a template, (2) N4 bias correction, (3) Skull stripping, and (4) Image scaling.
-For the first three steps, we used the instruction prepared in the [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). You can run Step 4 by our code setting paparemer ... to True. 
+For the first three steps, we used the instruction prepared in the [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). For running Step 4 for your data, you can use our code by setting "--normalizing" parameter to "True".
 
 
 # Running:
