@@ -30,7 +30,7 @@ MISPEL accepts a paired dataset as input data which should include images of "AL
 
 # Image preprocessing:
 For the preprocessing step please read the 'preprocessing' paragraph in section 4.1. Multi-scanner Dataset of our paper. The steps are as follows:\
-Step 1. Registration to a template.\
+       Step 1. Registration to a template.\
        Step 2. N4 bias correction.\
     Step 3. Skull stripping.\
     Step 4. Image scaling.\
