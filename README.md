@@ -20,7 +20,7 @@ MISPEL is a deep learning harmonization technique for paired data. In paired dat
 
 MISPEL was applied to a paired dataset consisting of N = 18 participants, each with T1-weighted (T1-w) MR acquisitions on M = 4 different 3T scanners: General Electric (GE), Philips, Siemens Prisma, and Siemens Trio. The median age was 72 years (range 51-78 years), 44% were males, 44% were cognitively normal, and the remaining had diagnoses of Alzheimer’s disease. 
 
-We compared MISPEL with two commonly used methods of MRI normalization and harmonization: White Stripe (WS) and RAVEL. For evaluating harmonization, we studied the similarity of paired images using three evaluation criteria: (1) visual quality, (2) image similarity, and (3) volumetric similarity. We estimated image similarity using structural similarity index measure (SSIM). For volumetric similarity, we extracted the volumes of gray matter and white matter tissue types and examined the root mean square deviation of these measures across scanners. Greater similarity indicates better harmonization.
+We compared MISPEL with two commonly used methods of MRI normalization and harmonization: White Stripe (WS) and RAVEL. For evaluating harmonization, we studied the similarity of paired images using three evaluation criteria: (1) visual quality, (2) image similarity, and (3) volumetric similarity. We estimated image similarity using structural similarity index measure (SSIM). For volumetric similarity, we extracted the volumes of gray matter and white matter tissue types. Greater similarity indicates better harmonization.
 
 
 # Structure of input data for MISPEL:
