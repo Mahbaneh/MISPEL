@@ -35,6 +35,9 @@ Step 1. Registration to a template.\
     Step 3. Skull stripping.\
     Step 4. Image scaling.\
 For the first three steps we used the instruction prepared in the [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). You can run Step 4 by our code setting paparemer ... to True. 
+100. First list item
+     - First nested list item
+       - Second nested list item
 
 
 # Running:
