@@ -11,11 +11,10 @@ MISPEL | Torbati, M.E., Tudorascu, D.L., Minhas, D.S., Maillard, P., DeCarli, C.
 [Image Preprocessing](#Image-Preprocessing)\
 
 
-
 # Software requirements:
 Python and Keras. 
 
-# MISPEL-Harmonization: 
+# MISPEL harmonization: 
 MISPEL is a deep learning harmonization technique for paired data. In paired data, each participant is scanned on multiple scanners to generate a set of images (called paired images), which differ solely due to the scanner effects. In MISPEL, the images of each scanner have their own unit of harmonization, which enables the entire framework to be expandable to multiple scanners. This unit consists of a U-Net encoder to extract the latent embeddings of input (unharmonized) images, followed by a linear decoder to reconstruct harmonized images using the embeddings. For harmonization, MISPEL has a two-step training process: (1) Embedding Learning, and (2) Harmonization. In the Embedding Learning step, all units are trained simultaneously to learn embeddings that are similar across scanners and could be used to reconstruct input unharmonized images. In the Harmonization step, the decoders of all units are trained simultaneously to harmonized images by generating identical images across scanners.
 
 MISPEL was applied to a paired dataset consisting of N = 18 participants, each with T1-weighted (T1-w) MR acquisitions on M = 4 different 3T scanners: General Electric (GE), Philips, Siemens Prisma, and Siemens Trio. The median age was 72 years (range 51-78 years), 44% were males, 44% were cognitively normal, and the remaining had diagnoses of Alzheimer’s disease. 
