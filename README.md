@@ -29,12 +29,8 @@ We compared MISPEL with two commonly used methods of MRI normalization and harmo
 MISPEL accepts a paired dataset as input data which should include images of "ALL" subjects across "ALL" scanners. We expect this data to be grouped in n (# of scanners) folders which named after the scanner names. Images of each subject should have identical names across these folders. Please refer to [Data](https://github.com/Mahbaneh/MISPEL/tree/main/Data) folder as an example of such data. Please note that our in-house paired data is not publicly available and the data in [Data](https://github.com/Mahbaneh/MISPEL/tree/main/Data) folder is a simulated data to be used as an example of running the code.
 
 # Image preprocessing:
-For the preprocessing step please read the 'preprocessing' paragraph in section 4.1. Multi-scanner Dataset of our paper. The steps are as follows:\
-       Step 1. Registration to a template.\
-       Step 2. N4 bias correction.\
-    Step 3. Skull stripping.\
-    Step 4. Image scaling.\
-For the first three steps we used the instruction prepared in the [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). You can run Step 4 by our code setting paparemer ... to True. 
+For the preprocessing step please read the 'preprocessing' paragraph in section 4.1 of the [Paper](https://openaccess.thecvf.com/content/ICCV2021W/CVAMD/html/Torbati_Multi-Scanner_Harmonization_of_Paired_Neuroimaging_Data_via_Structure_Preserving_Embedding_ICCVW_2021_paper.html). The steps are: (1) Registration to a template, (2) N4 bias correction, (3) Skull stripping, and (4) Image scaling.
+For the first three steps, we used the instruction prepared in the [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). You can run Step 4 by our code setting paparemer ... to True. 
 
 
 # Running:
