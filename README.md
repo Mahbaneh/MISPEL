@@ -36,3 +36,4 @@ For the first three steps we used the instruction prepared in the [RAVEL reposit
 
 
 # Running:
+The current version of the code implemented to be applied on CPU. 
