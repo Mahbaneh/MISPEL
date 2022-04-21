@@ -22,7 +22,7 @@ MISPEL was applied to a paired dataset consisting of N = 18 participants, each w
 
 We compared MISPEL with two commonly used methods of MRI normalization and harmonization: White Stripe (WS) and RAVEL. For evaluating harmonization, we studied the similarity of paired images using three evaluation criteria: (1) visual quality, (2) image similarity, and (3) volumetric similarity. We estimated image similarity using structural similarity index measure (SSIM). For volumetric similarity, we extracted the volumes of gray matter and white matter tissue types. Greater similarity indicates better harmonization.
 
-![This is an image](https://github.com/Mahbaneh/MISPEL/blob/main/pipeline.pdf)
+![This is an image](https://github.com/Mahbaneh/MISPEL/blob/main/pipeline.png)
 
 
 
