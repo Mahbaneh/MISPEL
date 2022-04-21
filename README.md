@@ -33,7 +33,7 @@ For the preprocessing step please read the 'preprocessing' paragraph in section 
 For the first three steps, we used the instruction prepared in the [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). For running Step 4 for your data, you can use our code by setting "--normalizing" parameter to "True".
 
 # Running:
-```ruby
+```
 python3 main.py --data_dir "Data" --mask_adr 'Data/JHU_MNI_SS_T1_Brain_Mask.nii' \
 --output_dir 'Data/Output' --downsample False --normalizing False \
 --upsampling False  --Swap_axis True --spatial_transformer \
