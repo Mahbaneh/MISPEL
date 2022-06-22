@@ -71,8 +71,8 @@ class Experiment(object):
         self.loss_weight['C4_synthesized_images'] = 0.0 # This is a dummy weight.
         
         # Set weights for Step1
-        self.loss_weight['concat'] = self.original_loss_weight['lambda_1']
-        self.loss_weight['C1_embeddings'] = self.original_loss_weight['lambda_2']
+        self.loss_weight['concat'] = self.original_loss_weight['lambda_2']
+        self.loss_weight['C1_embeddings'] = self.original_loss_weight['lambda_1']
         
 
         # Learning Model
