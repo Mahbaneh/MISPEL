@@ -32,7 +32,7 @@ For the preprocessing step please read the 'preprocessing' paragraph in section 
 For the first three steps, we used the instruction prepared in the [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). For running Step 4 for your data, you can use our code by setting "--normalizing" parameter to "True".
 
 # Running:
-For running the code you need to have the JHU brain template used in [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). We put this templete in the [Data](https://github.com/Mahbaneh/MISPEL/tree/main/Data) folder.  
+For running the code you need to have the JHU brain template used in [RAVEL repositoty](https://github.com/Jfortin1/RAVEL). We put this templete in the [Data](https://github.com/Mahbaneh/MISPEL/tree/main/Data) folder.  Please note that these parameters are the parameters we used for training our model. We have two typos in our paper: (1) reporting learning rate as 0.001 which should be 0.01, and (2) reporting values for lambda1 and lambda2 interchangably, the correst initialization is lambda1 = 0.3 and lambda2 = 1.0.
 
 ```
 python3 main.py --data_dir "Data" --mask_adr 'Data/JHU_MNI_SS_T1_Brain_Mask.nii' \
