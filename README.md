@@ -40,6 +40,6 @@ python3 main.py --data_dir "Data" --mask_adr 'Data/JHU_MNI_SS_T1_Brain_Mask.nii'
 --upsampling False  --Swap_axis True \
 --latent_dim 6 --batch_size 4 --learning_rate 0.01 \
 --T1 100 --T2 100  --scanner_names "ge,philips,trio,prisma"\
---lambda1 3.0 --lambda2 1.0 --lambda3 1.0 --lambda4 4.0
+--lambda1 0.3 --lambda2 1.0 --lambda3 1.0 --lambda4 4.0
 ```
 
